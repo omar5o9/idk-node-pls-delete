@@ -1,0 +1,20 @@
+{
+  "name": "idk-node-pls-delete",
+  "version": "1.0.0",
+  "description": "idk fun I guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "Omar Facundo"
+  },
+  "keywords": [
+    "fun",
+    "node",
+    "npm"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
